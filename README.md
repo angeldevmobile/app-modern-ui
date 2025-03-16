@@ -1,9 +1,5 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 # ui-app-modern
-Diseño de app moderna
-=======
-# ui_app_instagram
 
 A new Flutter project.
 
@@ -20,7 +16,3 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 >>>>>>> 65a362f (Primer commit: Nuevo desarrollo)
-=======
-# app-modern-ui
-app moderna con flutter
->>>>>>> 55b676673876213f8fab9084e33a9db77bcc49d7
